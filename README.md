@@ -1,2 +1,2 @@
 # python-bot-reward-discord
-A bot for discord to pick up a random member
+You can use replit, to put ur code for free, u just need import ur token.
