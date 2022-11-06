@@ -4,7 +4,7 @@ import random
 import time
 
 client = discord.Client()
-list =['Echo', 'Jwick', 'Mert', 'Magni', 'yagiz', 'Zeus', 'zico', 'Reis', 'Cihan']
+list =['ur name of people']
 @client.event
 async def on_ready():
     print('We have logged in as {0.user}'.format(client))
